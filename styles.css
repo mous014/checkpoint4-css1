@@ -1,0 +1,147 @@
+*{
+    font-family: roboto;
+   width: auto;
+}
+header {
+    margin-bottom: 100px;
+}
+#superfolio {
+    font-size: 40px;
+    font-weight: 400;
+    color: coral;
+    margin-right: 600px;
+    border: 2px solid brown;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    padding-left: 30px;
+    padding-right: 30px;
+  
+}
+
+
+/* this is for the nav bar */
+.nav {
+    text-decoration: none;
+    border: 1px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: blanchedalmond;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+/* this is the short presentation section */
+
+#image-short-presentation-id{
+    width: 200px;
+    padding-left: 100px;
+}
+
+#span-style, style {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 600;
+}
+
+/* this is the detailed presentation section */
+
+.detailed-presentation {
+    margin-top: 100px;
+}
+
+#mon-image {
+    width: 400px;
+    padding-right: 200px;
+    padding-left: 100px;
+    
+}
+.detailed-presentation {
+    margin-bottom: 80px;
+}
+
+#dt-pr {
+    font-size: 20px;
+}
+/* this is the services section */
+
+#id-services {
+    text-align: center;
+    background-color:chocolate;
+    border-radius: 10px;
+    }
+
+#table-services1 {
+    margin-bottom: 100px;
+    padding-left: ;
+}
+
+#table-services2 {
+    padding-left: 300px;
+}
+
+.services{
+    margin-bottom: 100px;
+}
+
+/* this is the projects section */
+#id-projectes {
+    text-align: center;
+    background-color:chocolate;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    }
+#projetc-done {
+    margin-bottom: 50px;
+}
+#projetc-done {
+    font-size: 50px;
+    text-align: center;
+    display: block;
+}
+
+#table-mywork {
+    padding-left: 150px;
+
+}
+
+.projects-abstract {
+    margin-bottom: 100px;
+}
+
+/* this is the contact section */
+#id-contact {
+    text-align: center;
+    background-color:chocolate;
+    border-radius: 10px;
+    margin-bottom: 50px; 
+}
+.form {
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+#span-td {
+    text-align: ;
+}
+
+/* this is the footer section */
+
+.footer {
+    text-align: center;
+    font-size: 50px;
+}
+#footer-button {
+    font-size: 25px;
+    margin-top: 50px;
+   padding: 20px;
+   background-color:burlywood ;
+   border-radius: 10px;
+}
+
+.form {
+    font-weight: bold;
+    font-size: 20px;
+    
+}
